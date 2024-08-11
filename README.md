@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azaz Khalid</h1>
 <h3 align="center">A passionate Mobile Application developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Roooming House Services](https://play.google.com/store/apps/details?id=com.andapps.skillbytes.roominghouseservices&hl=en&gl=US)
+- 🔭 I’m currently working on
+  - [Roooming House Services Android](https://play.google.com/store/apps/details?id=com.andapps.skillbytes.roominghouseservices&hl=en&gl=US)
+  - [Roooming House Services IOS](https://apps.apple.com/us/app/rooming-house-services/id1625454459)
+  - [Transcribe On The Go Adnroid](https://play.google.com/store/apps/details?id=com.andapps.skillbytes.transcribeonthego&hl=en&gl=US)
+  - [Transcribe On The Go IOS](https://apps.apple.com/us/app/transcribe-on-the-go/id6502254711)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/azazkhalidportfolio](https://linktr.ee/azazkhalidportfolio)
 
